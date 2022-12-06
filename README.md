@@ -13,3 +13,7 @@
 (Due to the lack  of time,we just convert data of only 2month(1Jan 2012 to 29feb 2012)) .that is why it is showing an graph for range of date between 1jan 2012 to 29feb 2012.Later we can definitely convert entire data into json format.So that  it will work for any date.
 
 ## Screenshots
+![1](https://user-images.githubusercontent.com/97447480/205901106-26f23004-73af-4f71-8978-79fbcf66f9c8.jpg)
+
+## Output
+![2](https://user-images.githubusercontent.com/97447480/205901144-424e0575-36cd-406e-ac5d-1c9e40508377.jpg)
