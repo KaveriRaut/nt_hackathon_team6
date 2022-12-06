@@ -1,6 +1,8 @@
-# Project Title : Northern_Trust_Hackathon_team6
+# Project Title : Currency_Exchange Project
 
 # About the Project: 📚
+In this Project we have created a dashboard which we allow users to analyze the exchange rates between two currencies over a period of time. Users have option to select start and end date for displaying currency chart. Data is printed and the form of chart using chart.js technology. Input will be
+currency exchange rate dataset between a currency pair and will be provided in a file format.
 
 ## Frontend
  - The frontend of the web application has been created using React.js. React makes it painless to create interactive UIs, and effectively updates and renders the correct components as the data changes. 
