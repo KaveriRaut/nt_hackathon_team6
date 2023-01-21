@@ -3,11 +3,9 @@
 # About the Project: 📚
 In this Project we have created a dashboard which we allow users to analyze the exchange rates between two currencies over a period of time. Users have option to select start and end date for displaying currency chart. Data is printed in the form of chart using chart.js technology. Input will be currency exchange rate chart from dataset between a base currency(USD) and given input currency over given input time line.
 
-## Frontend
+## Work Flow
  - The frontend of the web application has been created using React js. React makes it painless to create interactive UIs, and effectively updates and renders the correct components as the data changes. 
  - The front end has 1 input for the currencies and 2 inputs for start and end date, according to which currency exchange rate will be displayed.
-
-## Backend
 - For the backend, we have converted given CSV file to JSON format using  reactJS and importing papaparse npm module.
 - Then we filter data in JSON format according to date and currency using function.
 - With the help of chartJS package we plot graph for user entered values of currency and timeline.
