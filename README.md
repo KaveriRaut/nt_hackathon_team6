@@ -1,7 +1,7 @@
 # Project Title : Currency_Exchange Project
 
 ## About the Project: 📚
-In this Project we have created a dashboard which we allow users to analyze the exchange rates between two currencies over a period of time. Users have option to select start and end date for displaying currency chart. Data is printed in the form of chart using chart.js technology. Input will be currency exchange rate chart from dataset between a base currency(USD) and given input currency over given input time line.
+In this Project we have created a dashboard which allow users to analyze the exchange rates between two currencies over a period of time. Users have option to select start and end date for displaying currency chart. Data is printed in the form of chart using chart.js technology. Input will be currency exchange rate chart from dataset between a base currency(USD) and given input currency over given input time line.
 
 ## Work Flow
 - The frontend of the web application has been created using React js. React makes it painless to create interactive UIs, and effectively updates and renders the correct components as the data changes. 
